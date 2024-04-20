@@ -1,0 +1,208 @@
+Source IP: N/A
+Destination IP: N/A
+Source Port: 50288
+Destination Port: 443
+Protocol: N/A
+Payload: Raw...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 443
+Destination Port: 50288
+Protocol: N/A
+Payload: ...
+
+
+Source IP: 192.168.0.113
+Destination IP: 18.161.229.9
+Source Port: 50289
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 18.161.229.9
+Destination IP: 192.168.0.113
+Source Port: 443
+Destination Port: 50289
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.113
+Destination IP: 13.33.146.97
+Source Port: 50290
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 13.33.146.97
+Destination IP: 192.168.0.113
+Source Port: 443
+Destination Port: 50290
+Protocol: 6
+Payload: ...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 50293
+Destination Port: 443
+Protocol: N/A
+Payload: Raw...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 443
+Destination Port: 50293
+Protocol: N/A
+Payload: ...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 443
+Destination Port: 50293
+Protocol: N/A
+Payload: Raw...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 50293
+Destination Port: 443
+Protocol: N/A
+Payload: ...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 51389
+Destination Port: 443
+Protocol: N/A
+Payload: Raw...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 443
+Destination Port: 51389
+Protocol: N/A
+Payload: ...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 443
+Destination Port: 51389
+Protocol: N/A
+Payload: Raw...
+
+
+Source IP: N/A
+Destination IP: N/A
+Source Port: 51389
+Destination Port: 443
+Protocol: N/A
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 13.107.5.93
+Source Port: 51521
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 13.107.5.93
+Destination IP: 192.168.0.104
+Source Port: 443
+Destination Port: 51521
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51697
+Destination Port: 443
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51698
+Destination Port: 443
+Protocol: 6
+Payload: ...
+
+
+Source IP: 20.42.73.30
+Destination IP: 192.168.0.104
+Source Port: 443
+Destination Port: 51697
+Protocol: 6
+Payload: ...
+
+
+Source IP: 20.42.73.30
+Destination IP: 192.168.0.104
+Source Port: 443
+Destination Port: 51698
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51697
+Destination Port: 443
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51698
+Destination Port: 443
+Protocol: 6
+Payload: ...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51697
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 192.168.0.104
+Destination IP: 20.42.73.30
+Source Port: 51698
+Destination Port: 443
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 20.42.73.30
+Destination IP: 192.168.0.104
+Source Port: 443
+Destination Port: 51698
+Protocol: 6
+Payload: Raw...
+
+
+Source IP: 20.42.73.30
+Destination IP: 192.168.0.104
+Source Port: 443
+Destination Port: 51697
+Protocol: 6
+Payload: Raw...
+
+
